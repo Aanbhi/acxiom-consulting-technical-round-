@@ -1,17 +1,19 @@
 🎯 Technical Event Management System
 A web-based application designed to streamline the process of managing technical events, vendors, and users efficiently. This system provides role-based access for Admin, Vendor, and Users, enabling smooth coordination of event-related activities.
+
 🚀 Features
+
 👨‍💼 Admin
 Admin signup & login
 Manage users and vendors
 Monitor product/item listings
 Track orders and requests
-Maintain overall system data
-🧑‍💻 Vendor
+Maintain overall system data🧑‍💻 Vendor
 Vendor registration & login
 Add and manage items/products
 View product status
 Handle user requests and orders
+
 👤 User
 User signup & login
 Browse available products/items
